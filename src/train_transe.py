@@ -33,10 +33,10 @@ def main():
         testing=testing,
         model="TransE",
         model_kwargs={
-            "embedding_dim": 64,
+            "embedding_dim": 128,
         },
         training_kwargs={
-            "num_epochs": 100,
+            "num_epochs": 300,
             "use_tqdm": False,
         },
         optimizer="Adam",

@@ -103,11 +103,11 @@ def load_recipes():
                 print(f"Skipping recipe without idMeal or strMeal in {raw_file.name}")
                 continue
 
-                recipes.append(recipe)
+            recipes.append(recipe)
 
-            unique_recipes = {recipe["id"]: recipe for recipe in recipes}
+    unique_recipes = {recipe["id"]: recipe for recipe in recipes}
 
-            return raw_files, list(unique_recipes.values()), failed_files
+    return raw_files, list(unique_recipes.values()), failed_files
 
 
 def main():

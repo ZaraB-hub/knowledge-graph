@@ -38,5 +38,13 @@
   {
     "original": "Plain Flour",
     "canonical": "Flour"
+  },
+  {
+    "original": "Carrots",
+    "canonical": "Carrot"
+  },
+  {
+    "original": "Potatoes",
+    "canonical": "Potato"
   }
 ]

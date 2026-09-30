@@ -1,0 +1,330 @@
+[
+  {
+    "canonical": "Apple",
+    "ingredient_source": "FoodOn",
+    "ingredient_source_id": "FOODON:00002473",
+    "type": "Fruit",
+    "type_source": "Plant Ontology via FoodOn",
+    "type_source_id": "PO:0009001"
+  },
+  {
+    "canonical": "Pear",
+    "ingredient_source": "FoodOn",
+    "ingredient_source_id": "FOODON:00003041",
+    "type": "Fruit",
+    "type_source": "Plant Ontology via FoodOn",
+    "type_source_id": "PO:0009001"
+  },
+  {
+    "canonical": "Garlic",
+    "ingredient_source": "FoodOn",
+    "ingredient_source_id": "FOODON:00003582",
+    "type": "Vegetable",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:00003816"
+  },
+  {
+    "canonical": "Sugar",
+    "ingredient_source": "FoodOn",
+    "ingredient_source_id": "FOODON:03420108",
+    "type": "Sweetener",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:00002300"
+  },
+  {
+    "canonical": "Onion",
+    "ingredient_source": "FoodOn",
+    "ingredient_source_id": "FOODON:03316347",
+    "type": "Vegetable",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:00003816"
+  },
+  {
+    "canonical": "Carrot",
+    "ingredient_source": "FoodOn",
+    "ingredient_source_id": "FOODON:00003408",
+    "type": "Vegetable",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:00003816"
+  },
+  {
+    "canonical": "Potato",
+    "ingredient_source": "FoodOn",
+    "ingredient_source_id": "FOODON:03315354",
+    "type": "Vegetable",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:00003816"
+  },
+  {
+    "canonical": "Flour",
+    "ingredient_source": "FoodOn",
+    "ingredient_source_id": "FOODON:00004510",
+    "type": "Flour",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:00004510"
+  },
+  {
+    "canonical": "Almonds",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:00003523",
+    "type": "Nut",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:03303171"
+  },
+  {
+    "canonical": "Apricot",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:00003476",
+    "type": "Fruit",
+    "type_source": "FoodOn reusing Plant Ontology",
+    "type_source_id": "PO:0009001"
+  },
+  {
+    "canonical": "Asparagus",
+    "ingredient_source": "FoodOn (OLS exact label: asparagus plant)",
+    "ingredient_source_id": "FOODON:03411415",
+    "type": "Vegetable",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:00003816"
+  },
+  {
+    "canonical": "Aubergine",
+    "ingredient_source": "FoodOn (OLS synonym: eggplant)",
+    "ingredient_source_id": "FOODON:00003618",
+    "type": "Vegetable",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:00003816"
+  },
+  {
+    "canonical": "Avocado",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:00003600",
+    "type": "Fruit",
+    "type_source": "FoodOn reusing Plant Ontology",
+    "type_source_id": "PO:0009001"
+  },
+  {
+    "canonical": "Banana",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:00004183",
+    "type": "Fruit",
+    "type_source": "FoodOn reusing Plant Ontology",
+    "type_source_id": "PO:0009001"
+  },
+  {
+    "canonical": "Beetroot",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:03317254",
+    "type": "Root Vegetable",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:00003572"
+  },
+  {
+    "canonical": "Blueberries",
+    "ingredient_source": "FoodOn (OLS exact label: blueberry)",
+    "ingredient_source_id": "FOODON:00003541",
+    "type": "Fruit",
+    "type_source": "FoodOn reusing Plant Ontology",
+    "type_source_id": "PO:0009001"
+  },
+  {
+    "canonical": "Broccoli",
+    "ingredient_source": "FoodOn (OLS exact label: broccoli plant)",
+    "ingredient_source_id": "FOODON:03411443",
+    "type": "Vegetable",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:00003816"
+  },
+  {
+    "canonical": "Cherry",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:00003478",
+    "type": "Fruit",
+    "type_source": "FoodOn reusing Plant Ontology",
+    "type_source_id": "PO:0009001"
+  },
+  {
+    "canonical": "Chicken",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:03411457",
+    "type": "Poultry",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:00004298"
+  },
+  {
+    "canonical": "Chickpeas",
+    "ingredient_source": "FoodOn (OLS exact label: chickpea)",
+    "ingredient_source_id": "FOODON:03306811",
+    "type": "Legume",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:03310646"
+  },
+  {
+    "canonical": "Chorizo",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:03316070",
+    "type": "Meat",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:03400150"
+  },
+  {
+    "canonical": "Cinnamon",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:03301175",
+    "type": "Spice",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:03306052"
+  },
+  {
+    "canonical": "Cod",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:03411423",
+    "type": "Fish",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:03401265"
+  },
+  {
+    "canonical": "Coriander",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:03310370",
+    "type": "Herb",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:03543451"
+  },
+  {
+    "canonical": "Cucumber",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:00003415",
+    "type": "Vegetable",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:00003816"
+  },
+  {
+    "canonical": "Egg",
+    "ingredient_source": "FoodOn (OLS exact label: chicken egg)",
+    "ingredient_source_id": "FOODON:03316061",
+    "type": "Egg Product",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:03400261"
+  },
+  {
+    "canonical": "Ginger",
+    "ingredient_source": "FoodOn (OLS exact label: ginger root)",
+    "ingredient_source_id": "FOODON:00003717",
+    "type": "Spice",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:03306052"
+  },
+  {
+    "canonical": "Lemon",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:03315104",
+    "type": "Fruit",
+    "type_source": "FoodOn reusing Plant Ontology",
+    "type_source_id": "PO:0009001"
+  },
+  {
+    "canonical": "Lime",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:00003661",
+    "type": "Fruit",
+    "type_source": "FoodOn reusing Plant Ontology",
+    "type_source_id": "PO:0009001"
+  },
+  {
+    "canonical": "Mango",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:00003538",
+    "type": "Fruit",
+    "type_source": "FoodOn reusing Plant Ontology",
+    "type_source_id": "PO:0009001"
+  },
+  {
+    "canonical": "Olive",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:03317509",
+    "type": "Fruit",
+    "type_source": "FoodOn reusing Plant Ontology",
+    "type_source_id": "PO:0009001"
+  },
+  {
+    "canonical": "Pea",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:03301300",
+    "type": "Legume",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:03310646"
+  },
+  {
+    "canonical": "Pepper",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:00003520",
+    "type": "Spice",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:03306052"
+  },
+  {
+    "canonical": "Pumpkin",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:00003486",
+    "type": "Vegetable",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:00003816"
+  },
+  {
+    "canonical": "Rice",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:00004327",
+    "type": "Cereal Grain",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:03301941"
+  },
+  {
+    "canonical": "Salmon",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:00003473",
+    "type": "Fish",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:03401265"
+  },
+  {
+    "canonical": "Spinach",
+    "ingredient_source": "FoodOn (OLS exact label: spinach whole or pieces)",
+    "ingredient_source_id": "FOODON:03000221",
+    "type": "Vegetable",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:00003816"
+  },
+  {
+    "canonical": "Tomato",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:03301453",
+    "type": "Vegetable",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:00003816"
+  },
+  {
+    "canonical": "Tuna",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:03411269",
+    "type": "Fish",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:03401265"
+  },
+  {
+    "canonical": "Turkey",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:02020418",
+    "type": "Poultry",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:00004298"
+  },
+  {
+    "canonical": "Walnut",
+    "ingredient_source": "FoodOn (OLS exact label)",
+    "ingredient_source_id": "FOODON:03301364",
+    "type": "Nut",
+    "type_source": "FoodOn",
+    "type_source_id": "FOODON:03303171"
+  }
+]

@@ -1,0 +1,121 @@
+recipe,method,rank,recommended_recipe,similarity,ingredient_jaccard,shared_ingredients
+Apple Frangipan Tart,Jaccard,1,Apple & Blackberry Crumble,0.0,0.0,0
+Apple Frangipan Tart,Jaccard,2,Apam balik,0.0,0.0,0
+Apple Frangipan Tart,Jaccard,3,Ayam Percik,0.0,0.0,0
+Apple Frangipan Tart,Jaccard,4,Aussie Burgers,0.0,0.0,0
+Apple Frangipan Tart,Jaccard,5,Avocado dip with new potatoes,0.0,0.0,0
+Apple Frangipan Tart,TransE,1,Steak Diane,0.399831086397171,0.0,0
+Apple Frangipan Tart,TransE,2,Flemish Hutsepot,0.39842966198921204,0.0,0
+Apple Frangipan Tart,TransE,3,Thai rice noodle salad,0.3798133432865143,0.0,0
+Apple Frangipan Tart,TransE,4,Dulce de Leche Cheesecake with a Maria Cookie Crust.,0.37715139985084534,0.0,0
+Apple Frangipan Tart,TransE,5,Lemongrass beef stew with noodles,0.3750757575035095,0.0,0
+Apple Frangipan Tart,DistMult,1,Bakewell tart,0.9120449423789978,0.35714285714285715,5
+Apple Frangipan Tart,DistMult,2,Bread and Butter Pudding,0.7298154830932617,0.058823529411764705,1
+Apple Frangipan Tart,DistMult,3,Sticky Toffee Pudding Ultimate,0.7128263711929321,0.047619047619047616,1
+Apple Frangipan Tart,DistMult,4,Christmas Pudding Flapjack,0.697252094745636,0.0,0
+Apple Frangipan Tart,DistMult,5,Eton Mess,0.635855495929718,0.0,0
+Apple Pie,Jaccard,1,Apam balik,0.3333333333333333,0.3333333333333333,4
+Apple Pie,Jaccard,2,Apple cake,0.3333333333333333,0.3333333333333333,4
+Apple Pie,Jaccard,3,Apple pie pops,0.17647058823529413,0.17647058823529413,3
+Apple Pie,Jaccard,4,Authentic Laos Tapioca Pudding with Bananas,0.16666666666666666,0.16666666666666666,2
+Apple Pie,Jaccard,5,Almojábanas (Colombian Cheese Bread),0.15384615384615385,0.15384615384615385,2
+Apple Pie,TransE,1,Coconut quindim,0.4522797167301178,0.0,0
+Apple Pie,TransE,2,Oxtail with broad beans,0.40404558181762695,0.0,0
+Apple Pie,TransE,3,Cottage Cheese And Feta Stuffed Peppers,0.37815865874290466,0.07692307692307693,1
+Apple Pie,TransE,4,Madeira Cake,0.33178943395614624,0.07692307692307693,1
+Apple Pie,TransE,5,Thai chicken cakes with sweet chilli sauce,0.31257230043411255,0.0,0
+Apple Pie,DistMult,1,Apple cake,0.8520359992980957,0.3333333333333333,4
+Apple Pie,DistMult,2,Cambodian Waffles (Num Poum),0.7086828947067261,0.18181818181818182,2
+Apple Pie,DistMult,3,Dutch doughnuts,0.7018803358078003,0.3333333333333333,3
+Apple Pie,DistMult,4,Apple pie pops,0.6932395696640015,0.17647058823529413,3
+Apple Pie,DistMult,5,Dutch Apple Pie,0.6888681650161743,0.3333333333333333,4
+Potato Salad (Olivier Salad),TransE,1,Saskatoon Pie,0.5641927719116211,0.05263157894736842,1
+Potato Salad (Olivier Salad),TransE,2,Sweet and Sour Pork,0.4169967770576477,0.05263157894736842,1
+Potato Salad (Olivier Salad),TransE,3,Dutch poffertjes (mini pancakes),0.38359519839286804,0.058823529411764705,1
+Potato Salad (Olivier Salad),TransE,4,Belgian Waterzooi Chicken,0.3702404797077179,0.13636363636363635,3
+Potato Salad (Olivier Salad),TransE,5,Matambre a la Pizza,0.347177118062973,0.0625,1
+Potato Salad (Olivier Salad),DistMult,1,Spanish Tortilla,0.7514844536781311,0.11764705882352941,2
+Potato Salad (Olivier Salad),DistMult,2,Cayman Style Potato Salad,0.7412775158882141,0.23529411764705882,4
+Potato Salad (Olivier Salad),DistMult,3,Kaspressknödel - Cheese Dumplings,0.7263712882995605,0.17647058823529413,3
+Potato Salad (Olivier Salad),DistMult,4,Carrot and Bean Fritters,0.703842282295227,0.1111111111111111,2
+Potato Salad (Olivier Salad),DistMult,5,Kafteji,0.6992492079734802,0.26666666666666666,4
+Madeira Cake,TransE,1,Chivito uruguayo,0.48173198103904724,0.0,0
+Madeira Cake,TransE,2,Treacle Tart,0.4280237853527069,0.18181818181818182,2
+Madeira Cake,TransE,3,Smoked Haddock Kedgeree,0.4133545458316803,0.1875,3
+Madeira Cake,TransE,4,Brazilian carrot cake,0.41176822781562805,0.25,3
+Madeira Cake,TransE,5,Dominica’s coconut rough cake,0.39877766370773315,0.0,0
+Madeira Cake,DistMult,1,Rock Cakes,0.9508733749389648,0.5,5
+Madeira Cake,DistMult,2,Dundee cake,0.9067043662071228,0.25,4
+Madeira Cake,DistMult,3,Sticky Toffee Pudding,0.8848715424537659,0.3076923076923077,4
+Madeira Cake,DistMult,4,Mince Pies,0.8832060694694519,0.18181818181818182,2
+Madeira Cake,DistMult,5,Battenberg Cake,0.8597115278244019,0.26666666666666666,4
+Szechuan Beef,TransE,1,Teriyaki Chicken Casserole,0.45909371972084045,0.0,0
+Szechuan Beef,TransE,2,General Tsos Chicken,0.4199097454547882,0.21875,7
+Szechuan Beef,TransE,3,Macaroni Pie,0.4147324562072754,0.06896551724137931,2
+Szechuan Beef,TransE,4,Black Bean soup,0.4140395522117615,0.02857142857142857,1
+Szechuan Beef,TransE,5,Venezuelan turnovers,0.3947770595550537,0.10344827586206896,3
+Szechuan Beef,DistMult,1,Beef Lo Mein,0.9117961525917053,0.5416666666666666,13
+Szechuan Beef,DistMult,2,Ma Po Tofu,0.8407278060913086,0.2413793103448276,7
+Szechuan Beef,DistMult,3,Shrimp Chow Fun,0.8247522115707397,0.32142857142857145,9
+Szechuan Beef,DistMult,4,Hot and Sour Soup,0.7653142213821411,0.2962962962962963,8
+Szechuan Beef,DistMult,5,Sweet and Sour Pork,0.7566430568695068,0.2,5
+Jamaican Rice and Peas,TransE,1,Jamaican Pepper Shrimp,0.4575926959514618,0.10526315789473684,2
+Jamaican Rice and Peas,TransE,2,Toad In The Hole,0.4395770728588104,0.0,0
+Jamaican Rice and Peas,TransE,3,Key Lime Pie,0.4068850576877594,0.0,0
+Jamaican Rice and Peas,TransE,4,Madombi: Dumplings from Botswana,0.3965802788734436,0.0,0
+Jamaican Rice and Peas,TransE,5,Chilean Dobladitas,0.39400044083595276,0.0,0
+Jamaican Rice and Peas,DistMult,1,Jamaican Instant Pot Rice and Beans,0.9227897524833679,0.4666666666666667,7
+Jamaican Rice and Peas,DistMult,2,Rice and Beans,0.8642302751541138,0.3333333333333333,4
+Jamaican Rice and Peas,DistMult,3,Red Peas Soup,0.792543888092041,0.3333333333333333,6
+Jamaican Rice and Peas,DistMult,4,Brown Stew Chicken,0.7917071580886841,0.09523809523809523,2
+Jamaican Rice and Peas,DistMult,5,Jamaican Curry Chicken Recipe,0.7331621050834656,0.2,4
+Tom yum (hot & sour) soup with prawns,TransE,1,Bolani with Potato Filling,0.3468407988548279,0.0,0
+Tom yum (hot & sour) soup with prawns,TransE,2,Gambas al ajillo,0.34596508741378784,0.0,0
+Tom yum (hot & sour) soup with prawns,TransE,3,Sweet potato salad,0.3451566994190216,0.0,0
+Tom yum (hot & sour) soup with prawns,TransE,4,plantain rolls,0.3416686952114105,0.0,0
+Tom yum (hot & sour) soup with prawns,TransE,5,Jamaican Festival (Sweet Dumpling),0.34082266688346863,0.0,0
+Tom yum (hot & sour) soup with prawns,DistMult,1,Thai-style fish broth with greens,0.9076196551322937,0.125,2
+Tom yum (hot & sour) soup with prawns,DistMult,2,Tom yum soup with prawns,0.8455511331558228,0.2777777777777778,5
+Tom yum (hot & sour) soup with prawns,DistMult,3,Thai curry noodle soup,0.8295401334762573,0.05263157894736842,1
+Tom yum (hot & sour) soup with prawns,DistMult,4,Thai prawn curry,0.8093015551567078,0.0625,1
+Tom yum (hot & sour) soup with prawns,DistMult,5,Thai-style steamed fish,0.8089074492454529,0.0,0
+Garides Saganaki,TransE,1,Roast fennel and aubergine paella,0.44533365964889526,0.0,0
+Garides Saganaki,TransE,2,Thai fried rice with prawns & peas,0.39829424023628235,0.0,0
+Garides Saganaki,TransE,3,Tuna Nicoise,0.3960266411304474,0.0,0
+Garides Saganaki,TransE,4,Corned Beef Hash,0.39134886860847473,0.0,0
+Garides Saganaki,TransE,5,Salt & pepper squid,0.3685685694217682,0.0,0
+Garides Saganaki,DistMult,1,Honey Teriyaki Salmon,0.4852142035961151,0.08333333333333333,1
+Garides Saganaki,DistMult,2,Cajun spiced fish tacos,0.4567626118659973,0.0,0
+Garides Saganaki,DistMult,3,Mediterranean Pasta Salad,0.4214344620704651,0.0,0
+Garides Saganaki,DistMult,4,Conch Stew,0.3966335356235504,0.0,0
+Garides Saganaki,DistMult,5,Fried Crab,0.3856346309185028,0.0,0
+Aubergine couscous salad,Jaccard,1,Aubergine & hummus grills,0.21428571428571427,0.21428571428571427,3
+Aubergine couscous salad,Jaccard,2,Avocado dip with new potatoes,0.13333333333333333,0.13333333333333333,2
+Aubergine couscous salad,Jaccard,3,Algerian Flafla (Bell Pepper Salad),0.07142857142857142,0.07142857142857142,1
+Aubergine couscous salad,Jaccard,4,Air fryer patatas bravas,0.06666666666666667,0.06666666666666667,1
+Aubergine couscous salad,Jaccard,5,Algerian Bouzgene Berber Bread with Roasted Pepper Sauce,0.06666666666666667,0.06666666666666667,1
+Aubergine couscous salad,TransE,1,Beef Rendang,0.453154981136322,0.0,0
+Aubergine couscous salad,TransE,2,"Slow-cooked, Wadadli-spiced Cubano pork belly",0.39572739601135254,0.09523809523809523,2
+Aubergine couscous salad,TransE,3,Spanish seafood rice,0.3891083002090454,0.1875,3
+Aubergine couscous salad,TransE,4,Yorkshire Puddings,0.37645280361175537,0.0,0
+Aubergine couscous salad,TransE,5,Beetroot Soup (Borscht),0.36808037757873535,0.07142857142857142,1
+Aubergine couscous salad,DistMult,1,Roast aubergine with goat's cheese & toasted flatbread,0.8709284067153931,0.2857142857142857,4
+Aubergine couscous salad,DistMult,2,Griddled aubergines with sesame dressing,0.799117922782898,0.3076923076923077,4
+Aubergine couscous salad,DistMult,3,Aubergine & hummus grills,0.7974990606307983,0.21428571428571427,3
+Aubergine couscous salad,DistMult,4,Imam bayildi with BBQ lamb & tzatziki,0.7499313950538635,0.23529411764705882,4
+Aubergine couscous salad,DistMult,5,Grilled aubergines with spicy chickpeas & walnut sauce,0.7426618337631226,0.16666666666666666,3
+Algerian Kefta (Meatballs),Jaccard,1,Algerian Flafla (Bell Pepper Salad),0.36363636363636365,0.36363636363636365,4
+Algerian Kefta (Meatballs),Jaccard,2,Arepa pelua,0.25,0.25,4
+Algerian Kefta (Meatballs),Jaccard,3,Algerian Bouzgene Berber Bread with Roasted Pepper Sauce,0.23076923076923078,0.23076923076923078,3
+Algerian Kefta (Meatballs),Jaccard,4,Antiguan Breakfast (Chop Up and ‘Saltfish’),0.23076923076923078,0.23076923076923078,3
+Algerian Kefta (Meatballs),Jaccard,5,Algerian Carrots,0.1875,0.1875,3
+Algerian Kefta (Meatballs),TransE,1,Paella,0.4097256064414978,0.15789473684210525,3
+Algerian Kefta (Meatballs),TransE,2,Portuguese fish stew (Caldeirada de peixe),0.3484277129173279,0.09090909090909091,2
+Algerian Kefta (Meatballs),TransE,3,Chicken Quinoa Greek Salad,0.33639299869537354,0.05555555555555555,1
+Algerian Kefta (Meatballs),TransE,4,Figgy Duff,0.3313051164150238,0.058823529411764705,1
+Algerian Kefta (Meatballs),TransE,5,Arepa pelua,0.3296436071395874,0.25,4
+Algerian Kefta (Meatballs),DistMult,1,Algerian Flafla (Bell Pepper Salad),0.8130947947502136,0.36363636363636365,4
+Algerian Kefta (Meatballs),DistMult,2,Chtitha Batata (Algerian Potato Stew),0.7995175123214722,0.1875,3
+Algerian Kefta (Meatballs),DistMult,3,Algerian Bouzgene Berber Bread with Roasted Pepper Sauce,0.714707612991333,0.23076923076923078,3
+Algerian Kefta (Meatballs),DistMult,4,Poulet Roti a l'Algerienne (Algerian Roast Chicken),0.7146502733230591,0.2857142857142857,4
+Algerian Kefta (Meatballs),DistMult,5,Algerian Carrots,0.7004454731941223,0.1875,3

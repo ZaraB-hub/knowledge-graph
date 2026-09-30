@@ -19,12 +19,14 @@ MATCH (head)-[relationship]->(tail)
 WHERE type(relationship) IN [
     "HAS_INGREDIENT",
     "HAS_CATEGORY",
-    "HAS_AREA"
+    "HAS_AREA",
+    "IS_A"
 ]
 RETURN
     CASE
         WHEN head:Recipe THEN "recipe:" + head.id
         WHEN head:Ingredient THEN "ingredient:" + head.name
+        WHEN head:IngredientType THEN "ingredient_type:" + head.name
         WHEN head:Category THEN "category:" + head.name
         WHEN head:Area THEN "area:" + head.name
     END AS head,
@@ -32,6 +34,7 @@ RETURN
     CASE
         WHEN tail:Recipe THEN "recipe:" + tail.id
         WHEN tail:Ingredient THEN "ingredient:" + tail.name
+        WHEN tail:IngredientType THEN "ingredient_type:" + tail.name
         WHEN tail:Category THEN "category:" + tail.name
         WHEN tail:Area THEN "area:" + tail.name
     END AS tail
