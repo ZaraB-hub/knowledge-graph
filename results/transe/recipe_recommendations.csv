@@ -1,0 +1,201 @@
+recipe,rank,recommended_recipe,transE_similarity
+Apple Frangipan Tart,1,Arepa pelua,0.37695741653442383
+Apple Frangipan Tart,2,Apricot & Turkish delight mess,0.33294355869293213
+Apple Frangipan Tart,3,Algerian Flafla (Bell Pepper Salad),0.27693140506744385
+Apple Frangipan Tart,4,Algerian Carrots,0.25600168108940125
+Apple Frangipan Tart,5,Acaraje black-eyed pea fritters with shrimp filling,0.24333533644676208
+Apple & Blackberry Crumble,1,Air fryer patatas bravas,0.3170575201511383
+Apple & Blackberry Crumble,2,Achiote Oil (Aceite Achiotado) Recipe,0.2093653678894043
+Apple & Blackberry Crumble,3,Apple Potato Mash (Hete bliksem),0.19502100348472595
+Apple & Blackberry Crumble,4,Apricot & Turkish delight mess,0.15225960314273834
+Apple & Blackberry Crumble,5,Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce),0.13309061527252197
+Apam balik,1,Arnhemse meisjes,0.2926311194896698
+Apam balik,2,Avocado dip with new potatoes,0.25874727964401245
+Apam balik,3,Arroz al horno (baked rice),0.23315460979938507
+Apam balik,4,Adana kebab,0.19757503271102905
+Apam balik,5,Asado,0.19560635089874268
+Ayam Percik,1,Apple Pie,0.4212864637374878
+Ayam Percik,2,Air fryer patatas bravas,0.2582327425479889
+Ayam Percik,3,Arroz con gambas y calamar,0.20912005007266998
+Ayam Percik,4,Algerian Bouzgene Berber Bread with Roasted Pepper Sauce,0.13781075179576874
+Ayam Percik,5,Algerian Flafla (Bell Pepper Salad),0.12775945663452148
+Aussie Burgers,1,Aubergine & hummus grills,0.24108774960041046
+Aussie Burgers,2,Authentic Laos Tapioca Pudding with Bananas,0.1821349710226059
+Aussie Burgers,3,Apple Pie,0.15599672496318817
+Aussie Burgers,4,Arroz con gambas y calamar,0.14012572169303894
+Aussie Burgers,5,Arepa pelua,0.10602255165576935
+Avocado dip with new potatoes,1,Air fryer patatas bravas,0.2879248857498169
+Avocado dip with new potatoes,2,Apam balik,0.25874727964401245
+Avocado dip with new potatoes,3,Arepa Pabellón,0.2267119139432907
+Avocado dip with new potatoes,4,Anzac biscuits,0.17297710478305817
+Avocado dip with new potatoes,5,Asado,0.13216492533683777
+Anzac biscuits,1,Achiote Oil (Aceite Achiotado) Recipe,0.1983160674571991
+Anzac biscuits,2,Avocado dip with new potatoes,0.17297710478305817
+Anzac biscuits,3,Arroz con gambas y calamar,0.161347895860672
+Anzac biscuits,4,Acaraje black-eyed pea fritters with shrimp filling,0.14576184749603271
+Anzac biscuits,5,Ajo blanco,0.10589591413736343
+Authentic Norwegian Kransekake,1,Algerian Carrots,0.34910866618156433
+Authentic Norwegian Kransekake,2,Aubergine couscous salad,0.2519301772117615
+Authentic Norwegian Kransekake,3,Almojábanas (Colombian Cheese Bread),0.2093128263950348
+Authentic Norwegian Kransekake,4,Amok Trey – Cambodian Fish Curry,0.1997447907924652
+Authentic Norwegian Kransekake,5,Algerian Flafla (Bell Pepper Salad),0.19811268150806427
+Asado,1,Algerian Carrots,0.2622479498386383
+Asado,2,Apam balik,0.19560635089874268
+Asado,3,Adana kebab,0.1423046588897705
+Asado,4,Achiote Oil (Aceite Achiotado) Recipe,0.14044323563575745
+Asado,5,Authentic Norwegian Kransekake,0.13645462691783905
+Alfajores,1,Apple pie pops,0.34235596656799316
+Alfajores,2,Arra të Mbushura me Fik Walnut Stuffed Figs (with Fig Syrup),0.32217034697532654
+Alfajores,3,Arepa,0.3023149371147156
+Alfajores,4,Arroz al horno (baked rice),0.24194303154945374
+Alfajores,5,Arepa Pabellón,0.2344023585319519
+Arroz con gambas y calamar,1,Apple Potato Mash (Hete bliksem),0.40522539615631104
+Arroz con gambas y calamar,2,Apple Pie,0.26513850688934326
+Arroz con gambas y calamar,3,Ajo blanco,0.245310977101326
+Arroz con gambas y calamar,4,Ayam Percik,0.20912005007266998
+Arroz con gambas y calamar,5,Anzac biscuits,0.161347895860672
+Arroz al horno (baked rice),1,Adana kebab,0.25024083256721497
+Arroz al horno (baked rice),2,Alfajores,0.24194303154945374
+Arroz al horno (baked rice),3,Apam balik,0.23315460979938507
+Arroz al horno (baked rice),4,Algerian Carrots,0.22599218785762787
+Arroz al horno (baked rice),5,Algerian Bouzgene Berber Bread with Roasted Pepper Sauce,0.18303774297237396
+Air fryer patatas bravas,1,Apple & Blackberry Crumble,0.3170575201511383
+Air fryer patatas bravas,2,Algerian Flafla (Bell Pepper Salad),0.2917245626449585
+Air fryer patatas bravas,3,Avocado dip with new potatoes,0.2879248857498169
+Air fryer patatas bravas,4,Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce),0.2613466680049896
+Air fryer patatas bravas,5,Ayam Percik,0.2582327425479889
+Ajo blanco,1,Arroz con gambas y calamar,0.245310977101326
+Ajo blanco,2,Apple cake,0.24075429141521454
+Ajo blanco,3,Acaraje black-eyed pea fritters with shrimp filling,0.22639600932598114
+Ajo blanco,4,Almojábanas (Colombian Cheese Bread),0.2227144092321396
+Ajo blanco,5,Algerian Flafla (Bell Pepper Salad),0.20902031660079956
+Adana kebab,1,Aubergine & hummus grills,0.27739056944847107
+Adana kebab,2,Arroz al horno (baked rice),0.25024083256721497
+Adana kebab,3,Air Fryer Egg Rolls,0.24879486858844757
+Adana kebab,4,Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce),0.21766938269138336
+Adana kebab,5,Apam balik,0.19757503271102905
+Aubergine couscous salad,1,Amok Trey – Cambodian Fish Curry,0.34903720021247864
+Aubergine couscous salad,2,Algerian Kefta (Meatballs),0.2728462815284729
+Aubergine couscous salad,3,Authentic Norwegian Kransekake,0.2519301772117615
+Aubergine couscous salad,4,Acaraje black-eyed pea fritters with shrimp filling,0.22168266773223877
+Aubergine couscous salad,5,Ajo blanco,0.20802612602710724
+Apricot & Turkish delight mess,1,Apple Frangipan Tart,0.33294355869293213
+Apricot & Turkish delight mess,2,Acaraje black-eyed pea fritters with shrimp filling,0.1875050663948059
+Apricot & Turkish delight mess,3,Apple & Blackberry Crumble,0.15225960314273834
+Apricot & Turkish delight mess,4,Aubergine & hummus grills,0.1287306696176529
+Apricot & Turkish delight mess,5,Adana kebab,0.08685643970966339
+Aubergine & hummus grills,1,Adana kebab,0.27739056944847107
+Aubergine & hummus grills,2,Aussie Burgers,0.24108774960041046
+Aubergine & hummus grills,3,Algerian Carrots,0.23805446922779083
+Aubergine & hummus grills,4,Authentic Laos Tapioca Pudding with Bananas,0.22874142229557037
+Aubergine & hummus grills,5,Acaraje black-eyed pea fritters with shrimp filling,0.20491814613342285
+Algerian Kefta (Meatballs),1,Antiguan Breakfast (Chop Up and ‘Saltfish’),0.302083283662796
+Algerian Kefta (Meatballs),2,Aubergine couscous salad,0.2728462815284729
+Algerian Kefta (Meatballs),3,Arra të Mbushura me Fik Walnut Stuffed Figs (with Fig Syrup),0.2550226151943207
+Algerian Kefta (Meatballs),4,Acaraje black-eyed pea fritters with shrimp filling,0.17939314246177673
+Algerian Kefta (Meatballs),5,Arroz con Leche Recipe,0.16646943986415863
+Algerian Carrots,1,Authentic Norwegian Kransekake,0.34910866618156433
+Algerian Carrots,2,Acaraje black-eyed pea fritters with shrimp filling,0.31858885288238525
+Algerian Carrots,3,Asado,0.2622479498386383
+Algerian Carrots,4,Apple Frangipan Tart,0.25600168108940125
+Algerian Carrots,5,Aubergine & hummus grills,0.23805446922779083
+Algerian Bouzgene Berber Bread with Roasted Pepper Sauce,1,Arroz con Leche Recipe,0.24460917711257935
+Algerian Bouzgene Berber Bread with Roasted Pepper Sauce,2,Arroz al horno (baked rice),0.18303774297237396
+Algerian Bouzgene Berber Bread with Roasted Pepper Sauce,3,Apple cake,0.1819581836462021
+Algerian Bouzgene Berber Bread with Roasted Pepper Sauce,4,Algerian Kefta (Meatballs),0.16250750422477722
+Algerian Bouzgene Berber Bread with Roasted Pepper Sauce,5,Almojábanas (Colombian Cheese Bread),0.15426084399223328
+Algerian Flafla (Bell Pepper Salad),1,Air fryer patatas bravas,0.2917245626449585
+Algerian Flafla (Bell Pepper Salad),2,Apple Frangipan Tart,0.27693140506744385
+Algerian Flafla (Bell Pepper Salad),3,Ajo blanco,0.20902031660079956
+Algerian Flafla (Bell Pepper Salad),4,Aubergine & hummus grills,0.20028573274612427
+Algerian Flafla (Bell Pepper Salad),5,Authentic Norwegian Kransekake,0.19811268150806427
+Arepa pelua,1,Apple Frangipan Tart,0.37695741653442383
+Arepa pelua,2,Air Fryer Egg Rolls,0.2416713684797287
+Arepa pelua,3,Algerian Flafla (Bell Pepper Salad),0.18894146382808685
+Arepa pelua,4,Arepa Pabellón,0.18393272161483765
+Arepa pelua,5,Arepa,0.16579562425613403
+Arepa Pabellón,1,Apple cake,0.25796014070510864
+Arepa Pabellón,2,Alfajores,0.2344023585319519
+Arepa Pabellón,3,Avocado dip with new potatoes,0.2267119139432907
+Arepa Pabellón,4,Apple Frangipan Tart,0.18408821523189545
+Arepa Pabellón,5,Arepa pelua,0.18393272161483765
+Air Fryer Egg Rolls,1,Adana kebab,0.24879486858844757
+Air Fryer Egg Rolls,2,Arepa pelua,0.2416713684797287
+Air Fryer Egg Rolls,3,Acaraje black-eyed pea fritters with shrimp filling,0.2226780205965042
+Air Fryer Egg Rolls,4,Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce),0.21376933157444
+Air Fryer Egg Rolls,5,Arra të Mbushura me Fik Walnut Stuffed Figs (with Fig Syrup),0.19957773387432098
+Apple cake,1,Arepa Pabellón,0.25796014070510864
+Apple cake,2,Ajo blanco,0.24075429141521454
+Apple cake,3,Amok Trey – Cambodian Fish Curry,0.1964690387248993
+Apple cake,4,Air Fryer Egg Rolls,0.1943659484386444
+Apple cake,5,Algerian Bouzgene Berber Bread with Roasted Pepper Sauce,0.1819581836462021
+Apple Potato Mash (Hete bliksem),1,Arroz con gambas y calamar,0.40522539615631104
+Apple Potato Mash (Hete bliksem),2,Apple Pie,0.20550648868083954
+Apple Potato Mash (Hete bliksem),3,Apple & Blackberry Crumble,0.19502100348472595
+Apple Potato Mash (Hete bliksem),4,Arroz con Leche Recipe,0.18975479900836945
+Apple Potato Mash (Hete bliksem),5,Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce),0.14903216063976288
+Arnhemse meisjes,1,Apam balik,0.2926311194896698
+Arnhemse meisjes,2,Arra të Mbushura me Fik Walnut Stuffed Figs (with Fig Syrup),0.23769912123680115
+Arnhemse meisjes,3,Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce),0.2220456600189209
+Arnhemse meisjes,4,Amok Trey – Cambodian Fish Curry,0.18250904977321625
+Arnhemse meisjes,5,Arepa,0.15989874303340912
+Arra të Mbushura me Fik Walnut Stuffed Figs (with Fig Syrup),1,Alfajores,0.32217034697532654
+Arra të Mbushura me Fik Walnut Stuffed Figs (with Fig Syrup),2,Algerian Kefta (Meatballs),0.2550226151943207
+Arra të Mbushura me Fik Walnut Stuffed Figs (with Fig Syrup),3,Arnhemse meisjes,0.23769912123680115
+Arra të Mbushura me Fik Walnut Stuffed Figs (with Fig Syrup),4,Acaraje black-eyed pea fritters with shrimp filling,0.23319774866104126
+Arra të Mbushura me Fik Walnut Stuffed Figs (with Fig Syrup),5,Air Fryer Egg Rolls,0.19957773387432098
+Authentic Laos Tapioca Pudding with Bananas,1,Air fryer patatas bravas,0.23905755579471588
+Authentic Laos Tapioca Pudding with Bananas,2,Aubergine & hummus grills,0.22874142229557037
+Authentic Laos Tapioca Pudding with Bananas,3,Arroz con Leche Recipe,0.22167475521564484
+Authentic Laos Tapioca Pudding with Bananas,4,Aussie Burgers,0.1821349710226059
+Authentic Laos Tapioca Pudding with Bananas,5,Asado,0.1354854702949524
+Antiguan Breakfast (Chop Up and ‘Saltfish’),1,Algerian Kefta (Meatballs),0.302083283662796
+Antiguan Breakfast (Chop Up and ‘Saltfish’),2,Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce),0.30162984132766724
+Antiguan Breakfast (Chop Up and ‘Saltfish’),3,Air fryer patatas bravas,0.22800880670547485
+Antiguan Breakfast (Chop Up and ‘Saltfish’),4,Alfajores,0.1896028220653534
+Antiguan Breakfast (Chop Up and ‘Saltfish’),5,Amok Trey – Cambodian Fish Curry,0.18215984106063843
+Arepa,1,Alfajores,0.3023149371147156
+Arepa,2,Amok Trey – Cambodian Fish Curry,0.27406275272369385
+Arepa,3,Acaraje black-eyed pea fritters with shrimp filling,0.24755287170410156
+Arepa,4,Algerian Carrots,0.20625710487365723
+Arepa,5,Aubergine & hummus grills,0.19021989405155182
+Acaraje black-eyed pea fritters with shrimp filling,1,Algerian Carrots,0.31858885288238525
+Acaraje black-eyed pea fritters with shrimp filling,2,Arepa,0.24755288660526276
+Acaraje black-eyed pea fritters with shrimp filling,3,Amok Trey – Cambodian Fish Curry,0.2435247302055359
+Acaraje black-eyed pea fritters with shrimp filling,4,Apple Frangipan Tart,0.24333524703979492
+Acaraje black-eyed pea fritters with shrimp filling,5,Arra të Mbushura me Fik Walnut Stuffed Figs (with Fig Syrup),0.23319773375988007
+Amok Trey – Cambodian Fish Curry,1,Aubergine couscous salad,0.34903720021247864
+Amok Trey – Cambodian Fish Curry,2,Apple pie pops,0.2831568717956543
+Amok Trey – Cambodian Fish Curry,3,Arepa,0.2740626931190491
+Amok Trey – Cambodian Fish Curry,4,Acaraje black-eyed pea fritters with shrimp filling,0.2435247302055359
+Amok Trey – Cambodian Fish Curry,5,Alfajores,0.20623062551021576
+Arroz con Leche Recipe,1,Algerian Bouzgene Berber Bread with Roasted Pepper Sauce,0.24460916221141815
+Arroz con Leche Recipe,2,Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce),0.22444100677967072
+Arroz con Leche Recipe,3,Authentic Laos Tapioca Pudding with Bananas,0.22167471051216125
+Arroz con Leche Recipe,4,Algerian Carrots,0.20426557958126068
+Arroz con Leche Recipe,5,Apple Potato Mash (Hete bliksem),0.18975484371185303
+Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce),1,Antiguan Breakfast (Chop Up and ‘Saltfish’),0.3016298711299896
+Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce),2,Air fryer patatas bravas,0.2613466680049896
+Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce),3,Arroz con Leche Recipe,0.22444100677967072
+Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce),4,Arnhemse meisjes,0.2220456302165985
+Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce),5,Adana kebab,0.21766938269138336
+Achiote Oil (Aceite Achiotado) Recipe,1,Apple & Blackberry Crumble,0.2093653380870819
+Achiote Oil (Aceite Achiotado) Recipe,2,Anzac biscuits,0.1983160674571991
+Achiote Oil (Aceite Achiotado) Recipe,3,Air Fryer Egg Rolls,0.17686569690704346
+Achiote Oil (Aceite Achiotado) Recipe,4,Asado,0.14044328033924103
+Achiote Oil (Aceite Achiotado) Recipe,5,Acaraje black-eyed pea fritters with shrimp filling,0.1224084421992302
+Almojábanas (Colombian Cheese Bread),1,Apple pie pops,0.374394953250885
+Almojábanas (Colombian Cheese Bread),2,Ajo blanco,0.2227144092321396
+Almojábanas (Colombian Cheese Bread),3,Authentic Norwegian Kransekake,0.2093127965927124
+Almojábanas (Colombian Cheese Bread),4,Amok Trey – Cambodian Fish Curry,0.1845317780971527
+Almojábanas (Colombian Cheese Bread),5,Arepa,0.17358818650245667
+Apple pie pops,1,Almojábanas (Colombian Cheese Bread),0.374394953250885
+Apple pie pops,2,Alfajores,0.34235599637031555
+Apple pie pops,3,Amok Trey – Cambodian Fish Curry,0.2831568717956543
+Apple pie pops,4,Aubergine couscous salad,0.20066684484481812
+Apple pie pops,5,Arepa,0.1793811321258545
+Apple Pie,1,Ayam Percik,0.4212864935398102
+Apple Pie,2,Arroz con gambas y calamar,0.2651384472846985
+Apple Pie,3,Apple Potato Mash (Hete bliksem),0.20550645887851715
+Apple Pie,4,Ajo blanco,0.17502999305725098
+Apple Pie,5,Arroz al horno (baked rice),0.16475516557693481

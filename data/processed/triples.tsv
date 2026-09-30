@@ -1,0 +1,400 @@
+recipe:52768	HAS_AREA	area:British
+recipe:52768	HAS_CATEGORY	category:Dessert
+recipe:52768	HAS_INGREDIENT	ingredient:Bramley apples
+recipe:52768	HAS_INGREDIENT	ingredient:Salted Butter
+recipe:52768	HAS_INGREDIENT	ingredient:almond extract
+recipe:52768	HAS_INGREDIENT	ingredient:butter
+recipe:52768	HAS_INGREDIENT	ingredient:caster sugar
+recipe:52768	HAS_INGREDIENT	ingredient:digestive biscuits
+recipe:52768	HAS_INGREDIENT	ingredient:flaked almonds
+recipe:52768	HAS_INGREDIENT	ingredient:free-range eggs, beaten
+recipe:52768	HAS_INGREDIENT	ingredient:ground almonds
+recipe:52893	HAS_AREA	area:British
+recipe:52893	HAS_CATEGORY	category:Dessert
+recipe:52893	HAS_INGREDIENT	ingredient:Blackberries
+recipe:52893	HAS_INGREDIENT	ingredient:Braeburn Apples
+recipe:52893	HAS_INGREDIENT	ingredient:Butter
+recipe:52893	HAS_INGREDIENT	ingredient:Caster Sugar
+recipe:52893	HAS_INGREDIENT	ingredient:Cinnamon
+recipe:52893	HAS_INGREDIENT	ingredient:Demerara Sugar
+recipe:52893	HAS_INGREDIENT	ingredient:Ice Cream
+recipe:52893	HAS_INGREDIENT	ingredient:Plain Flour
+recipe:53049	HAS_AREA	area:Malaysian
+recipe:53049	HAS_CATEGORY	category:Dessert
+recipe:53049	HAS_INGREDIENT	ingredient:Baking Powder
+recipe:53049	HAS_INGREDIENT	ingredient:Eggs
+recipe:53049	HAS_INGREDIENT	ingredient:Flour
+recipe:53049	HAS_INGREDIENT	ingredient:Milk
+recipe:53049	HAS_INGREDIENT	ingredient:Oil
+recipe:53049	HAS_INGREDIENT	ingredient:Peanut Butter
+recipe:53049	HAS_INGREDIENT	ingredient:Salt
+recipe:53049	HAS_INGREDIENT	ingredient:Sugar
+recipe:53049	HAS_INGREDIENT	ingredient:Unsalted Butter
+recipe:53050	HAS_AREA	area:Malaysian
+recipe:53050	HAS_CATEGORY	category:Chicken
+recipe:53050	HAS_INGREDIENT	ingredient:Cayenne Pepper
+recipe:53050	HAS_INGREDIENT	ingredient:Challots
+recipe:53050	HAS_INGREDIENT	ingredient:Chicken Thighs
+recipe:53050	HAS_INGREDIENT	ingredient:Coconut Milk
+recipe:53050	HAS_INGREDIENT	ingredient:Coriander
+recipe:53050	HAS_INGREDIENT	ingredient:Cumin
+recipe:53050	HAS_INGREDIENT	ingredient:Fennel
+recipe:53050	HAS_INGREDIENT	ingredient:Garlic Clove
+recipe:53050	HAS_INGREDIENT	ingredient:Ginger
+recipe:53050	HAS_INGREDIENT	ingredient:Sugar
+recipe:53050	HAS_INGREDIENT	ingredient:Tamarind Paste
+recipe:53050	HAS_INGREDIENT	ingredient:Turmeric
+recipe:53050	HAS_INGREDIENT	ingredient:Water
+recipe:53099	HAS_AREA	area:Australian
+recipe:53099	HAS_CATEGORY	category:Beef
+recipe:53099	HAS_INGREDIENT	ingredient:Cooked Beetroot
+recipe:53099	HAS_INGREDIENT	ingredient:Lean Minced Steak
+recipe:53099	HAS_INGREDIENT	ingredient:Naan Bread
+recipe:53099	HAS_INGREDIENT	ingredient:Rocket
+recipe:53099	HAS_INGREDIENT	ingredient:Soured cream and chive dip
+recipe:53107	HAS_AREA	area:Australian
+recipe:53107	HAS_CATEGORY	category:Vegetarian
+recipe:53107	HAS_INGREDIENT	ingredient:Avocado
+recipe:53107	HAS_INGREDIENT	ingredient:Baby New Potatoes
+recipe:53107	HAS_INGREDIENT	ingredient:Cumin Seeds
+recipe:53107	HAS_INGREDIENT	ingredient:Hot Chilli Powder
+recipe:53107	HAS_INGREDIENT	ingredient:Lemon
+recipe:53107	HAS_INGREDIENT	ingredient:Lime
+recipe:53107	HAS_INGREDIENT	ingredient:Natural Yoghurt
+recipe:53107	HAS_INGREDIENT	ingredient:Olive Oil
+recipe:53107	HAS_INGREDIENT	ingredient:Tortillas
+recipe:53111	HAS_AREA	area:Australian
+recipe:53111	HAS_CATEGORY	category:Dessert
+recipe:53111	HAS_INGREDIENT	ingredient:Bicarbonate Of Soda
+recipe:53111	HAS_INGREDIENT	ingredient:Butter
+recipe:53111	HAS_INGREDIENT	ingredient:Caster Sugar
+recipe:53111	HAS_INGREDIENT	ingredient:Desiccated Coconut
+recipe:53111	HAS_INGREDIENT	ingredient:Golden Syrup
+recipe:53111	HAS_INGREDIENT	ingredient:Plain Flour
+recipe:53111	HAS_INGREDIENT	ingredient:Porridge oats
+recipe:53127	HAS_AREA	area:Norway
+recipe:53127	HAS_CATEGORY	category:Dessert
+recipe:53127	HAS_INGREDIENT	ingredient:Almonds
+recipe:53127	HAS_INGREDIENT	ingredient:Egg White
+recipe:53127	HAS_INGREDIENT	ingredient:Lemon Juice
+recipe:53127	HAS_INGREDIENT	ingredient:Powdered Sugar
+recipe:53133	HAS_AREA	area:Argentina
+recipe:53133	HAS_CATEGORY	category:Beef
+recipe:53133	HAS_INGREDIENT	ingredient:Chorizo
+recipe:53133	HAS_INGREDIENT	ingredient:Mixed Beef Cuts
+recipe:53133	HAS_INGREDIENT	ingredient:Morcilla
+recipe:53133	HAS_INGREDIENT	ingredient:Salt
+recipe:53138	HAS_AREA	area:Argentina
+recipe:53138	HAS_CATEGORY	category:Dessert
+recipe:53138	HAS_INGREDIENT	ingredient:All purpose flour
+recipe:53138	HAS_INGREDIENT	ingredient:Butter
+recipe:53138	HAS_INGREDIENT	ingredient:Cornstarch
+recipe:53138	HAS_INGREDIENT	ingredient:Desiccated Coconut
+recipe:53138	HAS_INGREDIENT	ingredient:Dulce de leche
+recipe:53138	HAS_INGREDIENT	ingredient:Egg Yolks
+recipe:53138	HAS_INGREDIENT	ingredient:Lemon Zest
+recipe:53138	HAS_INGREDIENT	ingredient:Sugar
+recipe:53147	HAS_AREA	area:Spanish
+recipe:53147	HAS_CATEGORY	category:Seafood
+recipe:53147	HAS_INGREDIENT	ingredient:Bay Leaf
+recipe:53147	HAS_INGREDIENT	ingredient:Olive Oil
+recipe:53147	HAS_INGREDIENT	ingredient:Onion
+recipe:53147	HAS_INGREDIENT	ingredient:Paella Rice
+recipe:53147	HAS_INGREDIENT	ingredient:Raw King Prawns
+recipe:53147	HAS_INGREDIENT	ingredient:Saffron
+recipe:53147	HAS_INGREDIENT	ingredient:Seafood stock
+recipe:53147	HAS_INGREDIENT	ingredient:Squid
+recipe:53147	HAS_INGREDIENT	ingredient:Tomato Puree
+recipe:53147	HAS_INGREDIENT	ingredient:White Wine
+recipe:53156	HAS_AREA	area:Spanish
+recipe:53156	HAS_CATEGORY	category:Pork
+recipe:53156	HAS_INGREDIENT	ingredient:Bacon lardon
+recipe:53156	HAS_INGREDIENT	ingredient:Black Pudding
+recipe:53156	HAS_INGREDIENT	ingredient:Chicken Stock
+recipe:53156	HAS_INGREDIENT	ingredient:Chilli Flakes
+recipe:53156	HAS_INGREDIENT	ingredient:Dried white beans
+recipe:53156	HAS_INGREDIENT	ingredient:Extra Virgin Olive Oil
+recipe:53156	HAS_INGREDIENT	ingredient:Garlic Clove
+recipe:53156	HAS_INGREDIENT	ingredient:Lemon Juice
+recipe:53156	HAS_INGREDIENT	ingredient:Onion
+recipe:53156	HAS_INGREDIENT	ingredient:Paella Rice
+recipe:53156	HAS_INGREDIENT	ingredient:Paprika
+recipe:53156	HAS_INGREDIENT	ingredient:Plum Tomatoes
+recipe:53156	HAS_INGREDIENT	ingredient:Pork belly slices
+recipe:53156	HAS_INGREDIENT	ingredient:Red Pepper
+recipe:53156	HAS_INGREDIENT	ingredient:Thyme
+recipe:53158	HAS_AREA	area:Spanish
+recipe:53158	HAS_CATEGORY	category:Vegetarian
+recipe:53158	HAS_INGREDIENT	ingredient:Basil Leaves
+recipe:53158	HAS_INGREDIENT	ingredient:Garlic
+recipe:53158	HAS_INGREDIENT	ingredient:Olive Oil
+recipe:53158	HAS_INGREDIENT	ingredient:Onion
+recipe:53158	HAS_INGREDIENT	ingredient:Paprika
+recipe:53158	HAS_INGREDIENT	ingredient:Potatoes
+recipe:53158	HAS_INGREDIENT	ingredient:Tinned Tomatos
+recipe:53158	HAS_INGREDIENT	ingredient:Tomato Puree
+recipe:53169	HAS_AREA	area:Spanish
+recipe:53169	HAS_CATEGORY	category:Starter
+recipe:53169	HAS_INGREDIENT	ingredient:Almonds
+recipe:53169	HAS_INGREDIENT	ingredient:Extra Virgin Olive Oil
+recipe:53169	HAS_INGREDIENT	ingredient:Garlic Clove
+recipe:53169	HAS_INGREDIENT	ingredient:Red Wine Vinegar
+recipe:53169	HAS_INGREDIENT	ingredient:White bread
+recipe:53262	HAS_AREA	area:Turkish
+recipe:53262	HAS_CATEGORY	category:Lamb
+recipe:53262	HAS_INGREDIENT	ingredient:Lamb Mince
+recipe:53262	HAS_INGREDIENT	ingredient:Pul Biber
+recipe:53262	HAS_INGREDIENT	ingredient:Red Pepper Paste
+recipe:53262	HAS_INGREDIENT	ingredient:Romano Pepper
+recipe:53262	HAS_INGREDIENT	ingredient:Sunflower Oil
+recipe:53267	HAS_AREA	area:Turkish
+recipe:53267	HAS_CATEGORY	category:Vegetarian
+recipe:53267	HAS_INGREDIENT	ingredient:Aubergine
+recipe:53267	HAS_INGREDIENT	ingredient:Cherry Tomatoes
+recipe:53267	HAS_INGREDIENT	ingredient:Couscous
+recipe:53267	HAS_INGREDIENT	ingredient:Goats Cheese
+recipe:53267	HAS_INGREDIENT	ingredient:Lemon
+recipe:53267	HAS_INGREDIENT	ingredient:Mint
+recipe:53267	HAS_INGREDIENT	ingredient:Olive Oil
+recipe:53267	HAS_INGREDIENT	ingredient:Vegetable Stock
+recipe:53276	HAS_AREA	area:Turkish
+recipe:53276	HAS_CATEGORY	category:Dessert
+recipe:53276	HAS_INGREDIENT	ingredient:Almonds
+recipe:53276	HAS_INGREDIENT	ingredient:Apricot
+recipe:53276	HAS_INGREDIENT	ingredient:Greek Yogurt
+recipe:53276	HAS_INGREDIENT	ingredient:Icing Sugar
+recipe:53276	HAS_INGREDIENT	ingredient:Mascarpone
+recipe:53276	HAS_INGREDIENT	ingredient:Meringue Nests
+recipe:53276	HAS_INGREDIENT	ingredient:Mint
+recipe:53276	HAS_INGREDIENT	ingredient:Orange Blossom Water
+recipe:53276	HAS_INGREDIENT	ingredient:Turkish Delight
+recipe:53278	HAS_AREA	area:Turkish
+recipe:53278	HAS_CATEGORY	category:Vegetarian
+recipe:53278	HAS_INGREDIENT	ingredient:Aubergine
+recipe:53278	HAS_INGREDIENT	ingredient:Bread
+recipe:53278	HAS_INGREDIENT	ingredient:Cherry Tomatoes
+recipe:53278	HAS_INGREDIENT	ingredient:Extra Virgin Olive Oil
+recipe:53278	HAS_INGREDIENT	ingredient:Hummus
+recipe:53278	HAS_INGREDIENT	ingredient:Lemon
+recipe:53278	HAS_INGREDIENT	ingredient:Parsley
+recipe:53278	HAS_INGREDIENT	ingredient:Vegetable Oil
+recipe:53278	HAS_INGREDIENT	ingredient:Walnuts
+recipe:53281	HAS_AREA	area:Algerian
+recipe:53281	HAS_CATEGORY	category:Beef
+recipe:53281	HAS_INGREDIENT	ingredient:Garlic
+recipe:53281	HAS_INGREDIENT	ingredient:Ground Beef
+recipe:53281	HAS_INGREDIENT	ingredient:Onion
+recipe:53281	HAS_INGREDIENT	ingredient:Parsley
+recipe:53281	HAS_INGREDIENT	ingredient:Pepper
+recipe:53281	HAS_INGREDIENT	ingredient:Plum Tomatoes
+recipe:53281	HAS_INGREDIENT	ingredient:Salt
+recipe:53281	HAS_INGREDIENT	ingredient:Water
+recipe:53282	HAS_AREA	area:Algerian
+recipe:53282	HAS_CATEGORY	category:Side
+recipe:53282	HAS_INGREDIENT	ingredient:Bay Leaf
+recipe:53282	HAS_INGREDIENT	ingredient:Black Pepper
+recipe:53282	HAS_INGREDIENT	ingredient:Carrots
+recipe:53282	HAS_INGREDIENT	ingredient:Garlic
+recipe:53282	HAS_INGREDIENT	ingredient:Ground Cinnamon
+recipe:53282	HAS_INGREDIENT	ingredient:Ground Cumin
+recipe:53282	HAS_INGREDIENT	ingredient:Lemon Juice
+recipe:53282	HAS_INGREDIENT	ingredient:Olive Oil
+recipe:53282	HAS_INGREDIENT	ingredient:Salt
+recipe:53282	HAS_INGREDIENT	ingredient:Thyme
+recipe:53282	HAS_INGREDIENT	ingredient:Water
+recipe:53284	HAS_AREA	area:Algerian
+recipe:53284	HAS_CATEGORY	category:Side
+recipe:53284	HAS_INGREDIENT	ingredient:Garlic
+recipe:53284	HAS_INGREDIENT	ingredient:Jalapeno
+recipe:53284	HAS_INGREDIENT	ingredient:Olive Oil
+recipe:53284	HAS_INGREDIENT	ingredient:Red Pepper
+recipe:53284	HAS_INGREDIENT	ingredient:Salt
+recipe:53284	HAS_INGREDIENT	ingredient:Semolina
+recipe:53284	HAS_INGREDIENT	ingredient:Tomato
+recipe:53284	HAS_INGREDIENT	ingredient:Water
+recipe:53288	HAS_AREA	area:Algerian
+recipe:53288	HAS_CATEGORY	category:Vegetarian
+recipe:53288	HAS_INGREDIENT	ingredient:Garlic
+recipe:53288	HAS_INGREDIENT	ingredient:Green Pepper
+recipe:53288	HAS_INGREDIENT	ingredient:Olive Oil
+recipe:53288	HAS_INGREDIENT	ingredient:Pepper
+recipe:53288	HAS_INGREDIENT	ingredient:Plum Tomatoes
+recipe:53288	HAS_INGREDIENT	ingredient:Red Onions
+recipe:53288	HAS_INGREDIENT	ingredient:Salt
+recipe:53329	HAS_AREA	area:Venezuela
+recipe:53329	HAS_CATEGORY	category:Beef
+recipe:53329	HAS_INGREDIENT	ingredient:Beef
+recipe:53329	HAS_INGREDIENT	ingredient:Beef Stock
+recipe:53329	HAS_INGREDIENT	ingredient:Cheese
+recipe:53329	HAS_INGREDIENT	ingredient:Cumin
+recipe:53329	HAS_INGREDIENT	ingredient:Extra Virgin Olive Oil
+recipe:53329	HAS_INGREDIENT	ingredient:Garlic
+recipe:53329	HAS_INGREDIENT	ingredient:Onion
+recipe:53329	HAS_INGREDIENT	ingredient:Oregano
+recipe:53329	HAS_INGREDIENT	ingredient:Paprika
+recipe:53329	HAS_INGREDIENT	ingredient:Red Pepper
+recipe:53329	HAS_INGREDIENT	ingredient:Salt
+recipe:53329	HAS_INGREDIENT	ingredient:Water
+recipe:53334	HAS_AREA	area:Venezuela
+recipe:53334	HAS_CATEGORY	category:Beef
+recipe:53334	HAS_INGREDIENT	ingredient:Black Beans
+recipe:53334	HAS_INGREDIENT	ingredient:Corn Arepa Filled With Mozarella Cheese
+recipe:53334	HAS_INGREDIENT	ingredient:Fried Ripe Bananas
+recipe:53334	HAS_INGREDIENT	ingredient:Pepper
+recipe:53334	HAS_INGREDIENT	ingredient:Pico De Gallo Sauce
+recipe:53334	HAS_INGREDIENT	ingredient:Salt
+recipe:53334	HAS_INGREDIENT	ingredient:Shredded Meat
+recipe:53334	HAS_INGREDIENT	ingredient:Tomato
+recipe:53373	HAS_AREA	area:Chinese
+recipe:53373	HAS_CATEGORY	category:Side
+recipe:53373	HAS_INGREDIENT	ingredient:Cabbage
+recipe:53373	HAS_INGREDIENT	ingredient:Carrots
+recipe:53373	HAS_INGREDIENT	ingredient:Duck Sauce
+recipe:53373	HAS_INGREDIENT	ingredient:Egg Roll Wrappers
+recipe:53373	HAS_INGREDIENT	ingredient:Garlic
+recipe:53373	HAS_INGREDIENT	ingredient:Ginger
+recipe:53373	HAS_INGREDIENT	ingredient:Ground Pork
+recipe:53373	HAS_INGREDIENT	ingredient:Oil
+recipe:53373	HAS_INGREDIENT	ingredient:Olive Oil
+recipe:53373	HAS_INGREDIENT	ingredient:Plum Sauce
+recipe:53373	HAS_INGREDIENT	ingredient:Rice Vinegar
+recipe:53373	HAS_INGREDIENT	ingredient:Scallions
+recipe:53373	HAS_INGREDIENT	ingredient:Soy Sauce
+recipe:53380	HAS_AREA	area:Netherlands
+recipe:53380	HAS_CATEGORY	category:Dessert
+recipe:53380	HAS_INGREDIENT	ingredient:Apples
+recipe:53380	HAS_INGREDIENT	ingredient:Eggs
+recipe:53380	HAS_INGREDIENT	ingredient:Ground Cinnamon
+recipe:53380	HAS_INGREDIENT	ingredient:Ground Sugar
+recipe:53380	HAS_INGREDIENT	ingredient:Melted Butter
+recipe:53380	HAS_INGREDIENT	ingredient:Salt
+recipe:53380	HAS_INGREDIENT	ingredient:Self-raising Flour
+recipe:53380	HAS_INGREDIENT	ingredient:Sugar
+recipe:53380	HAS_INGREDIENT	ingredient:Vanilla Extract
+recipe:53389	HAS_AREA	area:Netherlands
+recipe:53389	HAS_CATEGORY	category:Side
+recipe:53389	HAS_INGREDIENT	ingredient:Apples
+recipe:53389	HAS_INGREDIENT	ingredient:Bacon
+recipe:53389	HAS_INGREDIENT	ingredient:Cheese
+recipe:53389	HAS_INGREDIENT	ingredient:Cinnamon Stick
+recipe:53389	HAS_INGREDIENT	ingredient:Egg
+recipe:53389	HAS_INGREDIENT	ingredient:Ground Cinnamon
+recipe:53389	HAS_INGREDIENT	ingredient:Maple Syrup
+recipe:53389	HAS_INGREDIENT	ingredient:Potatoes
+recipe:53389	HAS_INGREDIENT	ingredient:Salt
+recipe:53389	HAS_INGREDIENT	ingredient:Sesame Seed
+recipe:53392	HAS_CATEGORY	category:Dessert
+recipe:53392	HAS_INGREDIENT	ingredient:Cardamom
+recipe:53392	HAS_INGREDIENT	ingredient:Cinnamon
+recipe:53392	HAS_INGREDIENT	ingredient:Lime
+recipe:53392	HAS_INGREDIENT	ingredient:Puff Pastry
+recipe:53392	HAS_INGREDIENT	ingredient:vanilla sugar
+recipe:53406	HAS_CATEGORY	category:Dessert
+recipe:53406	HAS_INGREDIENT	ingredient:Figs
+recipe:53406	HAS_INGREDIENT	ingredient:Sugar
+recipe:53406	HAS_INGREDIENT	ingredient:Walnuts
+recipe:53406	HAS_INGREDIENT	ingredient:Water
+recipe:53425	HAS_CATEGORY	category:Dessert
+recipe:53425	HAS_INGREDIENT	ingredient:Banana
+recipe:53425	HAS_INGREDIENT	ingredient:Coconut Milk
+recipe:53425	HAS_INGREDIENT	ingredient:Salt
+recipe:53425	HAS_INGREDIENT	ingredient:Sugar
+recipe:53425	HAS_INGREDIENT	ingredient:Tapioca
+recipe:53425	HAS_INGREDIENT	ingredient:Warm Water
+recipe:53425	HAS_INGREDIENT	ingredient:Water
+recipe:53430	HAS_CATEGORY	category:Breakfast
+recipe:53430	HAS_INGREDIENT	ingredient:Black Pepper
+recipe:53430	HAS_INGREDIENT	ingredient:Butter
+recipe:53430	HAS_INGREDIENT	ingredient:Callaloo
+recipe:53430	HAS_INGREDIENT	ingredient:Egg Plants
+recipe:53430	HAS_INGREDIENT	ingredient:Garlic
+recipe:53430	HAS_INGREDIENT	ingredient:Onion
+recipe:53430	HAS_INGREDIENT	ingredient:Pumpkin
+recipe:53430	HAS_INGREDIENT	ingredient:Salt
+recipe:53439	HAS_CATEGORY	category:Side
+recipe:53439	HAS_INGREDIENT	ingredient:Corn Flour
+recipe:53439	HAS_INGREDIENT	ingredient:Salt
+recipe:53439	HAS_INGREDIENT	ingredient:Warm Water
+recipe:53483	HAS_CATEGORY	category:Seafood
+recipe:53483	HAS_INGREDIENT	ingredient:Baking Powder
+recipe:53483	HAS_INGREDIENT	ingredient:Black Eyed Peas
+recipe:53483	HAS_INGREDIENT	ingredient:Chilli Powder
+recipe:53483	HAS_INGREDIENT	ingredient:Coriander
+recipe:53483	HAS_INGREDIENT	ingredient:Garlic
+recipe:53483	HAS_INGREDIENT	ingredient:Ginger
+recipe:53483	HAS_INGREDIENT	ingredient:Green Chilli
+recipe:53483	HAS_INGREDIENT	ingredient:Lime
+recipe:53483	HAS_INGREDIENT	ingredient:Plain Flour
+recipe:53483	HAS_INGREDIENT	ingredient:Plum Tomatoes
+recipe:53483	HAS_INGREDIENT	ingredient:Raw tiger prawns
+recipe:53483	HAS_INGREDIENT	ingredient:Red Chilli
+recipe:53483	HAS_INGREDIENT	ingredient:Red Onions
+recipe:53483	HAS_INGREDIENT	ingredient:Salt
+recipe:53483	HAS_INGREDIENT	ingredient:Vegetable Oil
+recipe:53495	HAS_CATEGORY	category:Seafood
+recipe:53495	HAS_INGREDIENT	ingredient:Banana Leaves
+recipe:53495	HAS_INGREDIENT	ingredient:Brown Sugar
+recipe:53495	HAS_INGREDIENT	ingredient:Chicken Stock
+recipe:53495	HAS_INGREDIENT	ingredient:Cilantro
+recipe:53495	HAS_INGREDIENT	ingredient:Coconut Milk
+recipe:53495	HAS_INGREDIENT	ingredient:Egg
+recipe:53495	HAS_INGREDIENT	ingredient:Fish Sauce
+recipe:53495	HAS_INGREDIENT	ingredient:Fish fillet
+recipe:53495	HAS_INGREDIENT	ingredient:Kaffir Lime Leaves
+recipe:53495	HAS_INGREDIENT	ingredient:Lime
+recipe:53495	HAS_INGREDIENT	ingredient:Red Curry Paste
+recipe:53495	HAS_INGREDIENT	ingredient:Vegetable Oil
+recipe:53522	HAS_CATEGORY	category:Dessert
+recipe:53522	HAS_INGREDIENT	ingredient:Butter
+recipe:53522	HAS_INGREDIENT	ingredient:Cinnamon Stick
+recipe:53522	HAS_INGREDIENT	ingredient:Condensed Milk
+recipe:53522	HAS_INGREDIENT	ingredient:Milk
+recipe:53522	HAS_INGREDIENT	ingredient:Rice
+recipe:53522	HAS_INGREDIENT	ingredient:Salt
+recipe:53522	HAS_INGREDIENT	ingredient:Sugar
+recipe:53522	HAS_INGREDIENT	ingredient:Vanilla Extract
+recipe:53522	HAS_INGREDIENT	ingredient:Water
+recipe:53525	HAS_CATEGORY	category:Miscellaneous
+recipe:53525	HAS_INGREDIENT	ingredient:Avocado
+recipe:53525	HAS_INGREDIENT	ingredient:Cilantro
+recipe:53525	HAS_INGREDIENT	ingredient:Egg
+recipe:53525	HAS_INGREDIENT	ingredient:Habanero Pepper
+recipe:53525	HAS_INGREDIENT	ingredient:Lime
+recipe:53525	HAS_INGREDIENT	ingredient:Onion
+recipe:53525	HAS_INGREDIENT	ingredient:Salt
+recipe:53525	HAS_INGREDIENT	ingredient:Scallions
+recipe:53525	HAS_INGREDIENT	ingredient:Vinegar
+recipe:53527	HAS_CATEGORY	category:Miscellaneous
+recipe:53527	HAS_INGREDIENT	ingredient:Achiote Seeds
+recipe:53527	HAS_INGREDIENT	ingredient:Vegetable Oil
+recipe:53529	HAS_CATEGORY	category:Side
+recipe:53529	HAS_INGREDIENT	ingredient:Baking Powder
+recipe:53529	HAS_INGREDIENT	ingredient:Butter
+recipe:53529	HAS_INGREDIENT	ingredient:Cornmeal
+recipe:53529	HAS_INGREDIENT	ingredient:Eggs
+recipe:53529	HAS_INGREDIENT	ingredient:Milk
+recipe:53529	HAS_INGREDIENT	ingredient:Mozzarella
+recipe:53529	HAS_INGREDIENT	ingredient:Queso Fresco
+recipe:53529	HAS_INGREDIENT	ingredient:Salt
+recipe:53568	HAS_CATEGORY	category:Dessert
+recipe:53568	HAS_INGREDIENT	ingredient:All purpose flour
+recipe:53568	HAS_INGREDIENT	ingredient:Apples
+recipe:53568	HAS_INGREDIENT	ingredient:Brown Sugar
+recipe:53568	HAS_INGREDIENT	ingredient:Cinnamon
+recipe:53568	HAS_INGREDIENT	ingredient:Cold Water
+recipe:53568	HAS_INGREDIENT	ingredient:Egg
+recipe:53568	HAS_INGREDIENT	ingredient:Ground Nutmeg
+recipe:53568	HAS_INGREDIENT	ingredient:Lemon Juice
+recipe:53568	HAS_INGREDIENT	ingredient:Salt
+recipe:53568	HAS_INGREDIENT	ingredient:Shortening
+recipe:53568	HAS_INGREDIENT	ingredient:Sugar
+recipe:53568	HAS_INGREDIENT	ingredient:Unsalted Butter
+recipe:53568	HAS_INGREDIENT	ingredient:Water
+recipe:53575	HAS_CATEGORY	category:Dessert
+recipe:53575	HAS_INGREDIENT	ingredient:Apples
+recipe:53575	HAS_INGREDIENT	ingredient:Bicarbonate Of Soda
+recipe:53575	HAS_INGREDIENT	ingredient:Eggs
+recipe:53575	HAS_INGREDIENT	ingredient:Flour
+recipe:53575	HAS_INGREDIENT	ingredient:Salt
+recipe:53575	HAS_INGREDIENT	ingredient:Sour Milk
+recipe:53575	HAS_INGREDIENT	ingredient:Sugar

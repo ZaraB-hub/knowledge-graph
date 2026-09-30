@@ -1,0 +1,127 @@
+recipe1,recipe2,transe_similarity,jaccard
+Acaraje black-eyed pea fritters with shrimp filling,Achiote Oil (Aceite Achiotado) Recipe,0.1224084421992302,0.0625
+Acaraje black-eyed pea fritters with shrimp filling,Air Fryer Egg Rolls,0.2226780205965042,0.07692307692307693
+Acaraje black-eyed pea fritters with shrimp filling,Ajo blanco,0.22639600932598114,0.0
+Acaraje black-eyed pea fritters with shrimp filling,Algerian Carrots,0.31858885288238525,0.08333333333333333
+Acaraje black-eyed pea fritters with shrimp filling,Algerian Kefta (Meatballs),0.17939314246177673,0.15
+Acaraje black-eyed pea fritters with shrimp filling,Amok Trey – Cambodian Fish Curry,0.2435247302055359,0.08
+Acaraje black-eyed pea fritters with shrimp filling,Anzac biscuits,0.14576184749603271,0.047619047619047616
+Acaraje black-eyed pea fritters with shrimp filling,Apple Frangipan Tart,0.24333524703979492,0.0
+Acaraje black-eyed pea fritters with shrimp filling,Apricot & Turkish delight mess,0.1875050663948059,0.0
+Acaraje black-eyed pea fritters with shrimp filling,Arepa,0.24755288660526276,0.058823529411764705
+Acaraje black-eyed pea fritters with shrimp filling,Arra të Mbushura me Fik Walnut Stuffed Figs (with Fig Syrup),0.23319773375988007,0.0
+Acaraje black-eyed pea fritters with shrimp filling,Aubergine & hummus grills,0.20491814613342285,0.043478260869565216
+Acaraje black-eyed pea fritters with shrimp filling,Aubergine couscous salad,0.22168266773223877,0.0
+Achiote Oil (Aceite Achiotado) Recipe,Air Fryer Egg Rolls,0.17686569690704346,0.0
+Achiote Oil (Aceite Achiotado) Recipe,Anzac biscuits,0.1983160674571991,0.0
+Achiote Oil (Aceite Achiotado) Recipe,Apple & Blackberry Crumble,0.2093653380870819,0.0
+Achiote Oil (Aceite Achiotado) Recipe,Asado,0.14044328033924103,0.0
+Adana kebab,Air Fryer Egg Rolls,0.24879486858844757,0.0
+Adana kebab,Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce),0.21766938269138336,0.0
+Adana kebab,Apam balik,0.19757503271102905,0.0
+Adana kebab,Apricot & Turkish delight mess,0.08685643970966339,0.0
+Adana kebab,Arroz al horno (baked rice),0.25024083256721497,0.0
+Adana kebab,Asado,0.1423046588897705,0.0
+Adana kebab,Aubergine & hummus grills,0.27739056944847107,0.0
+Air Fryer Egg Rolls,Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce),0.21376933157444,0.047619047619047616
+Air Fryer Egg Rolls,Apple cake,0.1943659484386444,0.0
+Air Fryer Egg Rolls,Arepa pelua,0.2416713684797287,0.041666666666666664
+Air Fryer Egg Rolls,Arra të Mbushura me Fik Walnut Stuffed Figs (with Fig Syrup),0.19957773387432098,0.0
+Air fryer patatas bravas,Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce),0.2613466680049896,0.0625
+Air fryer patatas bravas,Algerian Flafla (Bell Pepper Salad),0.2917245626449585,0.15384615384615385
+Air fryer patatas bravas,Antiguan Breakfast (Chop Up and ‘Saltfish’),0.22800880670547485,0.14285714285714285
+Air fryer patatas bravas,Apple & Blackberry Crumble,0.3170575201511383,0.0
+Air fryer patatas bravas,Authentic Laos Tapioca Pudding with Bananas,0.23905755579471588,0.0
+Air fryer patatas bravas,Avocado dip with new potatoes,0.2879248857498169,0.0625
+Air fryer patatas bravas,Ayam Percik,0.2582327425479889,0.0
+Ajo blanco,Algerian Flafla (Bell Pepper Salad),0.20902031660079956,0.0
+Ajo blanco,Almojábanas (Colombian Cheese Bread),0.2227144092321396,0.0
+Ajo blanco,Anzac biscuits,0.10589591413736343,0.0
+Ajo blanco,Apple Pie,0.17502999305725098,0.0
+Ajo blanco,Apple cake,0.24075429141521454,0.0
+Ajo blanco,Arroz con gambas y calamar,0.245310977101326,0.0
+Ajo blanco,Aubergine couscous salad,0.20802612602710724,0.0
+Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce),Antiguan Breakfast (Chop Up and ‘Saltfish’),0.3016298711299896,0.13333333333333333
+Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce),Apple & Blackberry Crumble,0.13309061527252197,0.0
+Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce),Apple Potato Mash (Hete bliksem),0.14903216063976288,0.11764705882352941
+Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce),Arnhemse meisjes,0.2220456302165985,0.07692307692307693
+Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce),Arroz con Leche Recipe,0.22444100677967072,0.058823529411764705
+Alfajores,Amok Trey – Cambodian Fish Curry,0.20623062551021576,0.0
+Alfajores,Antiguan Breakfast (Chop Up and ‘Saltfish’),0.1896028220653534,0.06666666666666667
+Alfajores,Apple pie pops,0.34235599637031555,0.10526315789473684
+Alfajores,Arepa,0.3023149371147156,0.0
+Alfajores,Arepa Pabellón,0.2344023585319519,0.0
+Alfajores,Arra të Mbushura me Fik Walnut Stuffed Figs (with Fig Syrup),0.32217034697532654,0.09090909090909091
+Alfajores,Arroz al horno (baked rice),0.24194303154945374,0.0
+Algerian Bouzgene Berber Bread with Roasted Pepper Sauce,Algerian Kefta (Meatballs),0.16250750422477722,0.23076923076923078
+Algerian Bouzgene Berber Bread with Roasted Pepper Sauce,Almojábanas (Colombian Cheese Bread),0.15426084399223328,0.06666666666666667
+Algerian Bouzgene Berber Bread with Roasted Pepper Sauce,Apple cake,0.1819581836462021,0.0625
+Algerian Bouzgene Berber Bread with Roasted Pepper Sauce,Arroz al horno (baked rice),0.18303774297237396,0.045454545454545456
+Algerian Bouzgene Berber Bread with Roasted Pepper Sauce,Arroz con Leche Recipe,0.24460916221141815,0.13333333333333333
+Algerian Bouzgene Berber Bread with Roasted Pepper Sauce,Ayam Percik,0.13781075179576874,0.05
+Algerian Carrots,Apple Frangipan Tart,0.25600168108940125,0.0
+Algerian Carrots,Arepa,0.20625710487365723,0.07692307692307693
+Algerian Carrots,Arroz al horno (baked rice),0.22599218785762787,0.08333333333333333
+Algerian Carrots,Arroz con Leche Recipe,0.20426557958126068,0.1111111111111111
+Algerian Carrots,Asado,0.2622479498386383,0.07142857142857142
+Algerian Carrots,Aubergine & hummus grills,0.23805446922779083,0.0
+Algerian Carrots,Authentic Norwegian Kransekake,0.34910866618156433,0.07142857142857142
+Algerian Flafla (Bell Pepper Salad),Apple Frangipan Tart,0.27693140506744385,0.0
+Algerian Flafla (Bell Pepper Salad),Arepa pelua,0.18894146382808685,0.11764705882352941
+Algerian Flafla (Bell Pepper Salad),Aubergine & hummus grills,0.20028573274612427,0.0
+Algerian Flafla (Bell Pepper Salad),Authentic Norwegian Kransekake,0.19811268150806427,0.0
+Algerian Flafla (Bell Pepper Salad),Ayam Percik,0.12775945663452148,0.0
+Algerian Kefta (Meatballs),Antiguan Breakfast (Chop Up and ‘Saltfish’),0.302083283662796,0.23076923076923078
+Algerian Kefta (Meatballs),Arra të Mbushura me Fik Walnut Stuffed Figs (with Fig Syrup),0.2550226151943207,0.09090909090909091
+Algerian Kefta (Meatballs),Arroz con Leche Recipe,0.16646943986415863,0.13333333333333333
+Algerian Kefta (Meatballs),Aubergine couscous salad,0.2728462815284729,0.0
+Almojábanas (Colombian Cheese Bread),Amok Trey – Cambodian Fish Curry,0.1845317780971527,0.0
+Almojábanas (Colombian Cheese Bread),Apple pie pops,0.374394953250885,0.05
+Almojábanas (Colombian Cheese Bread),Arepa,0.17358818650245667,0.1
+Almojábanas (Colombian Cheese Bread),Authentic Norwegian Kransekake,0.2093127965927124,0.0
+Amok Trey – Cambodian Fish Curry,Antiguan Breakfast (Chop Up and ‘Saltfish’),0.18215984106063843,0.0
+Amok Trey – Cambodian Fish Curry,Apple cake,0.1964690387248993,0.0
+Amok Trey – Cambodian Fish Curry,Apple pie pops,0.2831568717956543,0.08695652173913043
+Amok Trey – Cambodian Fish Curry,Arepa,0.2740626931190491,0.0
+Amok Trey – Cambodian Fish Curry,Arnhemse meisjes,0.18250904977321625,0.0625
+Amok Trey – Cambodian Fish Curry,Aubergine couscous salad,0.34903720021247864,0.0
+Amok Trey – Cambodian Fish Curry,Authentic Norwegian Kransekake,0.1997447907924652,0.0
+Anzac biscuits,Arroz con gambas y calamar,0.161347895860672,0.0
+Anzac biscuits,Avocado dip with new potatoes,0.17297710478305817,0.0
+Apam balik,Arnhemse meisjes,0.2926311194896698,0.0
+Apam balik,Arroz al horno (baked rice),0.23315460979938507,0.0
+Apam balik,Asado,0.19560635089874268,0.08333333333333333
+Apam balik,Avocado dip with new potatoes,0.25874727964401245,0.0
+Apple & Blackberry Crumble,Apple Potato Mash (Hete bliksem),0.19502100348472595,0.0
+Apple & Blackberry Crumble,Apricot & Turkish delight mess,0.15225960314273834,0.0
+Apple Frangipan Tart,Apricot & Turkish delight mess,0.33294355869293213,0.0
+Apple Frangipan Tart,Arepa Pabellón,0.18408821523189545,0.0
+Apple Frangipan Tart,Arepa pelua,0.37695741653442383,0.0
+Apple Pie,Apple Potato Mash (Hete bliksem),0.20550645887851715,0.13333333333333333
+Apple Pie,Arroz al horno (baked rice),0.16475516557693481,0.0
+Apple Pie,Arroz con gambas y calamar,0.2651384472846985,0.0
+Apple Pie,Aussie Burgers,0.15599672496318817,0.0
+Apple Pie,Ayam Percik,0.4212864935398102,0.05263157894736842
+Apple Potato Mash (Hete bliksem),Arroz con Leche Recipe,0.18975484371185303,0.11764705882352941
+Apple Potato Mash (Hete bliksem),Arroz con gambas y calamar,0.40522539615631104,0.0
+Apple cake,Arepa Pabellón,0.25796014070510864,0.0625
+Apple pie pops,Arepa,0.1793811321258545,0.06666666666666667
+Apple pie pops,Aubergine couscous salad,0.20066684484481812,0.0
+Apricot & Turkish delight mess,Aubergine & hummus grills,0.1287306696176529,0.0
+Arepa,Arepa pelua,0.16579562425613403,0.07142857142857142
+Arepa,Arnhemse meisjes,0.15989874303340912,0.0
+Arepa,Aubergine & hummus grills,0.19021989405155182,0.0
+Arepa Pabellón,Arepa pelua,0.18393272161483765,0.05263157894736842
+Arepa Pabellón,Avocado dip with new potatoes,0.2267119139432907,0.0
+Arepa pelua,Aussie Burgers,0.10602255165576935,0.0
+Arnhemse meisjes,Arra të Mbushura me Fik Walnut Stuffed Figs (with Fig Syrup),0.23769912123680115,0.0
+Arroz con Leche Recipe,Authentic Laos Tapioca Pudding with Bananas,0.22167471051216125,0.23076923076923078
+Arroz con gambas y calamar,Aussie Burgers,0.14012572169303894,0.0
+Arroz con gambas y calamar,Ayam Percik,0.20912005007266998,0.0
+Asado,Authentic Laos Tapioca Pudding with Bananas,0.1354854702949524,0.1
+Asado,Authentic Norwegian Kransekake,0.13645462691783905,0.0
+Asado,Avocado dip with new potatoes,0.13216492533683777,0.0
+Aubergine & hummus grills,Aussie Burgers,0.24108774960041046,0.0
+Aubergine & hummus grills,Authentic Laos Tapioca Pudding with Bananas,0.22874142229557037,0.0
+Aubergine couscous salad,Authentic Norwegian Kransekake,0.2519301772117615,0.0
+Aussie Burgers,Authentic Laos Tapioca Pudding with Bananas,0.1821349710226059,0.0
