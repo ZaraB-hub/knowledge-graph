@@ -7,7 +7,6 @@ import torch
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-# chenge model dir
 MODEL_DIR = PROJECT_ROOT / "results" / "distmult"
 MODEL_FILE = MODEL_DIR / "trained_model.pkl"
 TRAINING_TRIPLES_DIR = MODEL_DIR / "training_triples"

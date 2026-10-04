@@ -9,17 +9,10 @@ from recommend_distmult import load_recipe_embeddings
 from ingredient_substitution import find_substitutes
 
 
-# ============================================================
-# Paths
-# ============================================================
-
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 RECIPES_FILE = PROJECT_ROOT / "data" / "processed" / "recipes.json"
 
 
-# ============================================================
-# Page configuration
-# ============================================================
 
 st.set_page_config(
     page_title="Recipe Recommendation System",
@@ -28,9 +21,6 @@ st.set_page_config(
 )
 
 
-# ============================================================
-# Load recipe data
-# ============================================================
 
 @st.cache_data
 def load_recipes():
@@ -43,18 +33,10 @@ def load_recipes():
     }
 
 
-# ============================================================
-# Load DistMult embeddings
-# ============================================================
-
 @st.cache_resource(show_spinner="Loading the trained DistMult model...")
 def load_distmult_embeddings():
     return load_recipe_embeddings()
 
-
-# ============================================================
-# Recommendation function
-# ============================================================
 
 def recommend_from_embeddings(recipe_name, top_k, model_data):
     (
@@ -98,7 +80,6 @@ def recommend_from_embeddings(recipe_name, top_k, model_data):
 
         candidate_id = recipe_entity_ids[candidate_index]
 
-        # Do not recommend the selected recipe itself
         if candidate_id == source_id:
             continue
 
@@ -119,10 +100,6 @@ def recommend_from_embeddings(recipe_name, top_k, model_data):
 
     return recommendations
 
-
-# ============================================================
-# Ingredient utilities
-# ============================================================
 
 def get_ingredient_names(recipe):
     ingredients = recipe.get("ingredients", [])
@@ -159,10 +136,6 @@ def calculate_ingredient_overlap(recipe1, recipe2):
 
     return shared, jaccard
 
-
-# ============================================================
-# Knowledge Graph Statistics
-# ============================================================
 
 GRAPH_STATS = {
     "Recipes": 790,
@@ -260,10 +233,7 @@ def show_graph_statistics():
         "Overview of the recipe knowledge graph used by the system."
     )
 
-    # --------------------------------------------------------
-    # Node statistics
-    # --------------------------------------------------------
-
+   
     st.markdown("### Nodes")
 
     col1, col2, col3 = st.columns(3)
@@ -283,10 +253,7 @@ def show_graph_statistics():
             GRAPH_STATS["Ingredient Variants"],
         )
 
-    # --------------------------------------------------------
-    # Relationship statistics
-    # --------------------------------------------------------
-
+    
     st.markdown("### Relationships")
 
     relationship_data = [
@@ -314,10 +281,7 @@ def show_graph_statistics():
         use_container_width=True,
     )
 
-    # --------------------------------------------------------
-    # Top ingredients
-    # --------------------------------------------------------
-
+   
     st.markdown("### 🧂 Most Common Ingredients")
 
     ingredient_data = [
@@ -336,35 +300,7 @@ def show_graph_statistics():
         use_container_width=True,
     )
 
-    # --------------------------------------------------------
-    # Recipes with most ingredients
-    # --------------------------------------------------------
-
-    st.markdown("### 🍲 Recipes with the Most Ingredients")
-
-    recipe_complexity_data = [
-        {
-            "Rank": index,
-            "Recipe": recipe,
-            "Ingredients": count,
-        }
-        for index, (recipe, count)
-        in enumerate(
-            TOP_RECIPES_BY_INGREDIENT_COUNT,
-            start=1,
-        )
-    ]
-
-    st.dataframe(
-        recipe_complexity_data,
-        hide_index=True,
-        use_container_width=True,
-    )
-
-    # --------------------------------------------------------
-    # Categories and areas
-    # --------------------------------------------------------
-
+  
     col1, col2 = st.columns(2)
 
     with col1:
@@ -401,35 +337,6 @@ def show_graph_statistics():
             use_container_width=True,
         )
 
-    # --------------------------------------------------------
-    # Ingredient pairs
-    # --------------------------------------------------------
-
-    st.markdown("### 🔗 Most Common Ingredient Pairs")
-
-    pair_data = [
-        {
-            "Rank": index,
-            "Ingredient Pair": pair,
-            "Recipes": count,
-        }
-        for index, (pair, count)
-        in enumerate(
-            TOP_INGREDIENT_PAIRS,
-            start=1,
-        )
-    ]
-
-    st.dataframe(
-        pair_data,
-        hide_index=True,
-        use_container_width=True,
-    )
-
-
-# ============================================================
-# Load everything
-# ============================================================
 
 try:
 
@@ -453,10 +360,6 @@ except (
     st.stop()
 
 
-# ============================================================
-# Header
-# ============================================================
-
 st.title("🍽️ Recipe Recommendation System")
 
 st.write(
@@ -467,9 +370,6 @@ st.write(
 st.divider()
 
 
-# ============================================================
-# Sidebar
-# ============================================================
 
 with st.sidebar:
 
@@ -500,10 +400,6 @@ with st.sidebar:
     )
 
 
-# ============================================================
-# Selected recipe
-# ============================================================
-
 recipe = recipes.get(selected_recipe)
 
 if recipe is None:
@@ -516,11 +412,6 @@ if recipe is None:
 
 
 st.header(selected_recipe)
-
-
-# ============================================================
-# Category / Area
-# ============================================================
 
 col1, col2, col3 = st.columns(3)
 
@@ -558,11 +449,6 @@ with col3:
         "Number of Ingredients",
         ingredient_count,
     )
-
-
-# ============================================================
-# Recipe information
-# ============================================================
 
 st.subheader("Ingredients")
 
@@ -607,10 +493,6 @@ else:
     )
 
 
-# ============================================================
-# Instructions
-# ============================================================
-
 st.subheader("Instructions")
 
 instructions = recipe.get(
@@ -627,10 +509,6 @@ else:
         "No instructions available."
     )
 
-
-# ============================================================
-# Recommendations
-# ============================================================
 
 if recommend_button:
 
@@ -654,10 +532,6 @@ if recommend_button:
         st.error(str(error))
         st.stop()
 
-
-    # --------------------------------------------------------
-    # Recommendation cards
-    # --------------------------------------------------------
 
     for recommendation in recommendations:
 
@@ -735,9 +609,6 @@ if recommend_button:
             )
 
 
-# ============================================================
-# Ingredient Substitution
-# ============================================================
 
 st.divider()
 
@@ -749,7 +620,6 @@ st.write(
 )
 
 
-# Build ingredient list dynamically
 all_ingredients = set()
 
 for recipe_data in recipes.values():
@@ -832,10 +702,6 @@ if st.button(
         st.error(str(error))
 
 
-# ============================================================
-# Knowledge Graph Statistics
-# ============================================================
-
 st.divider()
 
 with st.expander(
@@ -845,14 +711,11 @@ with st.expander(
     show_graph_statistics()
 
 
-# ============================================================
-# About the system
-# ============================================================
 
 st.divider()
 
 with st.expander(
-    "ℹ️ About this recommendation system"
+    "ℹ️ About"
 ):
 
     st.write(
